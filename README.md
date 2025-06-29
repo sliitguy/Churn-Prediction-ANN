@@ -6,6 +6,7 @@ This project is an end-to-end **Artificial Neural Network (ANN)** application th
 
 ## 📁 Project Structure
 
+```plaintext
 ├── app.py # Streamlit app to run the prediction
 ├── model.pkl # Trained ANN model saved using pickle
 ├── label_encoder_gender.pkl # LabelEncoder for encoding Gender
@@ -15,7 +16,7 @@ This project is an end-to-end **Artificial Neural Network (ANN)** application th
 ├── notebooks/
 │ ├── Experiments.ipynb # Data preprocessing steps
 │ └── predictions.ipynb # ANN model training with TensorBoard
-
+```
 
 ---
 
