@@ -70,7 +70,7 @@ tensorboard --logdir=logs
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/employee-churn-ann.git
+git clone https://github.com/sliitguy/Churn-Prediction-ANN.git
 cd employee-churn-ann
 ```
 
